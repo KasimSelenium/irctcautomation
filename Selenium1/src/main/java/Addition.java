@@ -3,7 +3,7 @@ public class Addition {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int sum = 2+3;
+		int sum = 2+5;
 	System.out.println("The sum is " +sum);	
 	
 	int mul = 2*3;
